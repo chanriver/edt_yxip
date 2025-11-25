@@ -1,5 +1,6 @@
 name: CSV to TXT Conversion
 
+# 当 result.csv 文件被 push 时触发
 on:
   push:
     paths:
@@ -10,17 +11,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ 拉取仓库内容
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # 2️⃣ 设置 Python 环境
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.x"
 
+      # 3️⃣ 运行 Python 脚本进行 CSV → TXT 转换
       - name: Convert CSV to TXT
         run: python3 scripts/csv2txt.py
 
+      # 4️⃣ 提交并推送 TXT 文件回仓库
       - name: Commit and push TXT
         run: |
           git config user.name "github-actions[bot]"
