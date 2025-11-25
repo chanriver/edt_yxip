@@ -19,43 +19,7 @@ jobs:
           python-version: "3.x"
 
       - name: Convert CSV to TXT
-        run: |
-          python3 - << 'EOF'
-import csv
-
-csv_file = "data/result.csv"
-txt_file = "data/result.txt"
-
-# 机场码 -> 国家中文名
-airport_map = {
-    # 亚洲
-    "SIN": "新加坡", "HKG": "中国香港", "NRT": "日本", "KIX": "日本",
-    "ICN": "韩国", "GMP": "韩国", "TPE": "台湾", "KUL": "马来西亚",
-    "BKK": "泰国", "MNL": "菲律宾", "HAN": "越南", "SGN": "越南",
-    "DEL": "印度", "BOM": "印度", "DXB": "阿联酋", "DOH": "卡塔尔",
-    # 欧洲
-    "LHR": "英国", "LGW": "英国", "CDG": "法国", "ORY": "法国",
-    "FRA": "德国", "MUC": "德国", "AMS": "荷兰", "MAD": "西班牙",
-    "BCN": "西班牙", "FCO": "意大利", "MXP": "意大利", "ZRH": "瑞士",
-    "CPH": "丹麦", "ARN": "瑞典", "OSL": "挪威",
-    # 美洲
-    "JFK": "美国", "LGA": "美国", "EWR": "美国", "ORD": "美国",
-    "LAX": "美国", "SFO": "美国", "MIA": "美国", "YYZ": "加拿大",
-    "YVR": "加拿大", "GRU": "巴西", "GIG": "巴西", "EZE": "阿根廷",
-    "SCL": "智利", "MEX": "墨西哥", "LIM": "秘鲁",
-}
-
-with open(csv_file, "r", encoding="utf-8") as f_csv, \
-     open(txt_file, "w", encoding="utf-8") as f_txt:
-
-    reader = csv.DictReader(f_csv, delimiter="\t")
-    for row in reader:
-        ip_port = row["P 地址"]
-        airport_code = row.get("地区码", "")
-        country = airport_map.get(airport_code, airport_code)
-        f_txt.write(f"{ip_port}#{country}\n")
-
-EOF
+        run: python3 scripts/csv2txt.py
 
       - name: Commit and push TXT
         run: |
