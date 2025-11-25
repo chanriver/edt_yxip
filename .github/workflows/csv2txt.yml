@@ -24,7 +24,7 @@ jobs:
         with:
           python-version: "3.x"
 
-      # 3️⃣ 列出 data 文件夹，方便调试
+      # 3️⃣ 列出 data 文件夹，便于调试
       - name: List data folder
         run: ls -l data/
 
@@ -32,7 +32,7 @@ jobs:
       - name: Convert CSV to TXT
         run: python3 scripts/csv2txt.py
 
-      # 5️⃣ 提交并 push TXT 文件
+      # 5️⃣ 提交并 push TXT 文件，避免 exit 128
       - name: Commit and push TXT
         run: |
           git config user.name "github-actions[bot]"
@@ -41,12 +41,13 @@ jobs:
           git add data/result.txt
           git commit -m "Auto convert CSV to TXT" --allow-empty || echo "No changes to commit"
 
-          # 先拉取最新，避免 push 被拒
-          git pull --rebase
+          # 拉取最新远程，解决 fast-forward 问题
+          git fetch origin main
+          git reset --soft origin/main
 
-          git push
+          git push origin main
 
-      # 6️⃣ 输出 Git 状态，便于调试
+      # 6️⃣ 输出 Git 状态，方便调试
       - name: Show git status
         run: |
           git status
