@@ -5,6 +5,7 @@ on:
   push:
     paths:
       - 'data/result.csv'
+  workflow_dispatch:
 
 jobs:
   convert:
