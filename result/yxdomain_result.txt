@@ -1,1 +1,4 @@
-cf.877771.xyz:443#Unknown  20.78ms 第三方优选域名
+nrt.xxxxxxxx.nyc.mn:443#Unknown  90.29ms 第三方优选域名
+gur.gov.ua:443#Unknown  165.92ms 官方优选域名
+www.gov.se:443#Unknown  168.71ms 瑞士官方域名
+cdns.doon.eu.org:443#Unknown  89.63ms 第三方优选域名
