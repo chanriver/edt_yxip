@@ -1,20 +1,16 @@
-777.ai7777777.xyz:443#日本 🇯🇵 58.63ms 第三方优选域名
-nrt.xxxxxxxx.nyc.mn:443#日本 🇯🇵 61.69ms 第三方优选域名
-cfip.1323123.xyz:443#美国 🇺🇸 152.24ms 第三方优选域名
-fbi.gov:443#美国 🇺🇸 158.41ms 官方优选域名
-whatismyipaddress.com:443#美国 🇺🇸 158.78ms 官方优选域名
-www.pcmag.com:443#美国 🇺🇸 156.79ms 官方优选域名
-jerry.cloudflare.182682.xyz:443#美国 🇺🇸 153.12ms 第三方优选域名
-saas.sin.fan:443#新加坡 🇸🇬 91.17ms 第三方优选域名
-freeyx.cloudflare88.eu.org:443#Unknown  164.83ms 第三方优选域名
-cloudflare.czkcdn.cn:443#Unknown  164.11ms 第三方优选域名
-www.csgo.com:443#Unknown  163.26ms 官方优选域名
-jerry.tencentapp.cn:443#Unknown  164.92ms ktff维护域名
-bestcf.030101.xyz:443#Unknown  165.96ms MingYu维护域名
-cdn.2020111.xyz:443#Unknown  167.25ms 第三方优选域名
-www.visa.cn:443#Unknown  168.78ms visa中国优选
-www.gov.se:443#Unknown  169.60ms 瑞士官方域名
-gur.gov.ua:443#Unknown  173.77ms 官方优选域名
-cloudflare.cnae.top:443#Unknown  175.99ms 第三方优选域名
-xn--b6gac.eu.org:443#Unknown  191.28ms 第三方优选域名
-time.is:443#Unknown  191.89ms 官方优选域名
+777.ai7777777.xyz:443#Unknown  65.90ms 第三方优选域名
+mfa.gov.ua:443#Unknown  89.25ms 乌克兰政府官
+cf.zhetengsha.eu.org:443#Unknown  89.38ms 小一维护域名
+saas.sin.fan:443#Unknown  89.76ms 第三方优选域名
+cloudflare.cdnjson.com:443#Unknown  89.92ms 第三方优选域名
+bestcf.030101.xyz:443#Unknown  90.15ms MingYu维护域名
+www.wto.org:443#Unknown  90.22ms 官方优选域名
+cdns.doon.eu.org:443#Unknown  90.33ms 第三方优选域名
+www.shopify.com:443#Unknown  90.35ms Shopify官方优选
+jerry.cf.090227.xyz:443#Unknown  90.39ms CM维护域名
+jerry.tencentapp.cn:443#Unknown  159.73ms ktff维护域名
+www.visa.cn:443#Unknown  159.77ms visa中国优选
+www.gov.se:443#Unknown  164.84ms 瑞士官方域名
+cdn.2020111.xyz:443#Unknown  169.68ms 第三方优选域名
+gur.gov.ua:443#Unknown  170.32ms 官方优选域名
+freeyx.cloudflare88.eu.org:443#Unknown  172.14ms 第三方优选域名
