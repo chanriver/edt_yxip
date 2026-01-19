@@ -1,16 +1,19 @@
-777.ai7777777.xyz:443#Unknown  65.90ms 第三方优选域名
-mfa.gov.ua:443#Unknown  89.25ms 乌克兰政府官
-cf.zhetengsha.eu.org:443#Unknown  89.38ms 小一维护域名
-saas.sin.fan:443#Unknown  89.76ms 第三方优选域名
-cloudflare.cdnjson.com:443#Unknown  89.92ms 第三方优选域名
-bestcf.030101.xyz:443#Unknown  90.15ms MingYu维护域名
-www.wto.org:443#Unknown  90.22ms 官方优选域名
-cdns.doon.eu.org:443#Unknown  90.33ms 第三方优选域名
-www.shopify.com:443#Unknown  90.35ms Shopify官方优选
-jerry.cf.090227.xyz:443#Unknown  90.39ms CM维护域名
-jerry.tencentapp.cn:443#Unknown  159.73ms ktff维护域名
-www.visa.cn:443#Unknown  159.77ms visa中国优选
-www.gov.se:443#Unknown  164.84ms 瑞士官方域名
-cdn.2020111.xyz:443#Unknown  169.68ms 第三方优选域名
-gur.gov.ua:443#Unknown  170.32ms 官方优选域名
-freeyx.cloudflare88.eu.org:443#Unknown  172.14ms 第三方优选域名
+jerry.tencentapp.cn:443#美国 🇺🇸 165.64ms ktff维护域名
+gur.gov.ua:443#美国 🇺🇸 167.58ms 官方优选域名
+www.gov.se:443#美国 🇺🇸 162.67ms 瑞士官方域名
+jerry.cf.090227.xyz:443#新加坡 🇸🇬 90.46ms CM维护域名
+www.visa.cn:443#美国 🇺🇸 168.13ms visa中国优选
+cdns.doon.eu.org:443#新加坡 🇸🇬 90.59ms 第三方优选域名
+freeyx.cloudflare88.eu.org:443#美国 🇺🇸 169.30ms 第三方优选域名
+www.shopify.com:443#Unknown  89.26ms Shopify官方优选
+bestcf.030101.xyz:443#Unknown  89.91ms MingYu维护域名
+cdns.doon.eu.org:443#Unknown  89.32ms 第三方优选域名
+cdn.2020111.xyz:443#Unknown  165.97ms 第三方优选域名
+saas.sin.fan:443#Unknown  90.41ms 第三方优选域名
+nrt.xxxxxxxx.nyc.mn:443#Unknown  60.02ms 第三方优选域名
+cloudflare.cdnjson.com:443#Unknown  90.39ms 第三方优选域名
+www.zsu.gov.ua:443#Unknown  188.00ms 官方优选域名
+yx.887141.xyz:443#Unknown  189.11ms 第三方优选域名
+iplocation.io:443#Unknown  192.44ms 官方优选域名
+cf.877771.xyz:443#Unknown  192.50ms 第三方优选域名
+www.whatismyip.com:443#Unknown  194.37ms 官方优选域名
