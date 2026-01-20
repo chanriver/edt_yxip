@@ -1,19 +1,20 @@
-jerry.tencentapp.cn:443#美国 🇺🇸 165.64ms ktff维护域名
-gur.gov.ua:443#美国 🇺🇸 167.58ms 官方优选域名
-www.gov.se:443#美国 🇺🇸 162.67ms 瑞士官方域名
-jerry.cf.090227.xyz:443#新加坡 🇸🇬 90.46ms CM维护域名
-www.visa.cn:443#美国 🇺🇸 168.13ms visa中国优选
-cdns.doon.eu.org:443#新加坡 🇸🇬 90.59ms 第三方优选域名
-freeyx.cloudflare88.eu.org:443#美国 🇺🇸 169.30ms 第三方优选域名
-www.shopify.com:443#Unknown  89.26ms Shopify官方优选
-bestcf.030101.xyz:443#Unknown  89.91ms MingYu维护域名
-cdns.doon.eu.org:443#Unknown  89.32ms 第三方优选域名
-cdn.2020111.xyz:443#Unknown  165.97ms 第三方优选域名
-saas.sin.fan:443#Unknown  90.41ms 第三方优选域名
-nrt.xxxxxxxx.nyc.mn:443#Unknown  60.02ms 第三方优选域名
-cloudflare.cdnjson.com:443#Unknown  90.39ms 第三方优选域名
-www.zsu.gov.ua:443#Unknown  188.00ms 官方优选域名
-yx.887141.xyz:443#Unknown  189.11ms 第三方优选域名
-iplocation.io:443#Unknown  192.44ms 官方优选域名
-cf.877771.xyz:443#Unknown  192.50ms 第三方优选域名
-www.whatismyip.com:443#Unknown  194.37ms 官方优选域名
+freeyx.cloudflare88.eu.org:443#日本 🇯🇵 66.97ms 第三方优选域名
+www.shopify.com:443#新加坡 🇸🇬 95.13ms Shopify官方优选
+nrt.xxxxxxxx.nyc.mn:443#日本 🇯🇵 55.62ms 第三方优选域名
+saas.sin.fan:443#新加坡 🇸🇬 91.60ms 第三方优选域名
+www.wto.org:443#新加坡 🇸🇬 100.14ms 官方优选域名
+cdns.doon.eu.org:443#新加坡 🇸🇬 88.59ms 第三方优选域名
+cf.zhetengsha.eu.org:443#新加坡 🇸🇬 90.33ms 小一维护域名
+cloudflare.cdnjson.com:443#新加坡 🇸🇬 90.97ms 第三方优选域名
+777.ai7777777.xyz:443#日本 🇯🇵 69.58ms 第三方优选域名
+mfa.gov.ua:443#新加坡 🇸🇬 85.74ms 乌克兰政府官
+jerry.cf.090227.xyz:443#新加坡 🇸🇬 103.92ms CM维护域名
+bestcf.030101.xyz:443#美国 🇺🇸 155.97ms MingYu维护域名
+whatismyipaddress.com:443#美国 🇺🇸 170.83ms 官方优选域名
+jerry.cloudflare.182682.xyz:443#美国 🇺🇸 163.53ms 第三方优选域名
+cloudflare.cnae.top:443#美国 🇺🇸 169.15ms 第三方优选域名
+fbi.gov:443#美国 🇺🇸 158.34ms 官方优选域名
+www.csgo.com:443#美国 🇺🇸 173.90ms 官方优选域名
+cloudflare.czkcdn.cn:443#Unknown  174.79ms 第三方优选域名
+gur.gov.ua:443#Unknown  174.16ms 官方优选域名
+www.gov.se:443#Unknown  174.46ms 瑞士官方域名
