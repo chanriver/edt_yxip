@@ -1,3 +1,20 @@
-www.shopify.com:443#新加坡 🇸🇬 95.13ms Shopify官方优选
-mfa.gov.ua:443#新加坡 🇸🇬 85.74ms 乌克兰政府官
-www.gov.se:443#Unknown  174.46ms 瑞士官方域名
+777.ai7777777.xyz:443#Unknown  57.80ms 第三方优选域名
+www.wto.org:443#Unknown  88.22ms 官方优选域名
+mfa.gov.ua:443#Unknown  88.31ms 乌克兰政府官
+nrt.xxxxxxxx.nyc.mn:443#Unknown  91.95ms 第三方优选域名
+saas.sin.fan:443#Unknown  92.02ms 第三方优选域名
+cf.zhetengsha.eu.org:443#Unknown  96.02ms 小一维护域名
+cloudflare.cdnjson.com:443#Unknown  96.04ms 第三方优选域名
+jerry.cf.090227.xyz:443#Unknown  97.01ms CM维护域名
+www.shopify.com:443#Unknown  99.04ms Shopify官方优选
+cloudflare.cnae.top:443#Unknown  154.79ms 第三方优选域名
+fbi.gov:443#Unknown  163.95ms 官方优选域名
+jerry.cloudflare.182682.xyz:443#Unknown  164.05ms 第三方优选域名
+whatismyipaddress.com:443#Unknown  166.48ms 官方优选域名
+www.visa.cn:443#Unknown  168.92ms visa中国优选
+jerry.tencentapp.cn:443#Unknown  169.40ms ktff维护域名
+cfip.1323123.xyz:443#Unknown  169.76ms 第三方优选域名
+freeyx.cloudflare88.eu.org:443#Unknown  171.09ms 第三方优选域名
+cdn.2020111.xyz:443#Unknown  171.67ms 第三方优选域名
+www.pcmag.com:443#Unknown  173.20ms 官方优选域名
+bestcf.030101.xyz:443#Unknown  174.35ms MingYu维护域名
