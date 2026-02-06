@@ -1,20 +1,19 @@
-777.ai7777777.xyz:443#Unknown  70.97ms 第三方优选域名
-www.shopify.com:443#Unknown  84.48ms Shopify官方优选
-cf.zhetengsha.eu.org:443#Unknown  87.31ms 小一维护域名
-www.wto.org:443#Unknown  88.75ms 官方优选域名
-cdns.doon.eu.org:443#Unknown  89.71ms 第三方优选域名
-mfa.gov.ua:443#Unknown  93.38ms 乌克兰政府官
-jerry.cf.090227.xyz:443#Unknown  95.37ms CM维护域名
-cloudflare.cdnjson.com:443#Unknown  97.92ms 第三方优选域名
-saas.sin.fan:443#Unknown  99.09ms 第三方优选域名
-bestcf.030101.xyz:443#Unknown  163.99ms MingYu维护域名
-cloudflare.czkcdn.cn:443#Unknown  165.77ms 第三方优选域名
-fbi.gov:443#Unknown  166.31ms 官方优选域名
-cdn.2020111.xyz:443#Unknown  167.37ms 第三方优选域名
-cfip.1323123.xyz:443#Unknown  168.32ms 第三方优选域名
-cloudflare.cnae.top:443#Unknown  169.30ms 第三方优选域名
-jerry.cloudflare.182682.xyz:443#Unknown  171.97ms 第三方优选域名
-jerry.tencentapp.cn:443#Unknown  173.09ms ktff维护域名
-freeyx.cloudflare88.eu.org:443#Unknown  173.20ms 第三方优选域名
-whatismyipaddress.com:443#Unknown  174.97ms 官方优选域名
-www.gov.se:443#Unknown  176.48ms 瑞士官方域名
+jerry.cf.090227.xyz:443#新加坡 🇸🇬 100.05ms CM维护域名
+saas.sin.fan:443#新加坡 🇸🇬 87.05ms 第三方优选域名
+mfa.gov.ua:443#新加坡 🇸🇬 90.80ms 乌克兰政府官
+www.wto.org:443#新加坡 🇸🇬 98.64ms 官方优选域名
+cf.zhetengsha.eu.org:443#新加坡 🇸🇬 94.45ms 小一维护域名
+cloudflare.cdnjson.com:443#新加坡 🇸🇬 105.99ms 第三方优选域名
+www.shopify.com:443#新加坡 🇸🇬 96.67ms Shopify官方优选
+bestcf.030101.xyz:443#新加坡 🇸🇬 89.34ms MingYu维护域名
+jerry.cloudflare.182682.xyz:443#美国 🇺🇸 166.76ms 第三方优选域名
+www.gov.se:443#美国 🇺🇸 175.56ms 瑞士官方域名
+cfip.1323123.xyz:443#美国 🇺🇸 176.35ms 第三方优选域名
+www.csgo.com:443#美国 🇺🇸 163.19ms 官方优选域名
+freeyx.cloudflare88.eu.org:443#美国 🇺🇸 173.96ms 第三方优选域名
+cloudflare.cnae.top:443#美国 🇺🇸 178.10ms 第三方优选域名
+fbi.gov:443#美国 🇺🇸 165.74ms 官方优选域名
+whatismyipaddress.com:443#美国 🇺🇸 156.77ms 官方优选域名
+www.pcmag.com:443#美国 🇺🇸 170.61ms 官方优选域名
+cloudflare.cnae.top:443#美国 🇺🇸 176.62ms 第三方优选域名
+cdn.2020111.xyz:443#Unknown  179.15ms 第三方优选域名
